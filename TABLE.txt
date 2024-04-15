@@ -1,3 +1,5 @@
+// This is table done by Vishal
+
 Q1.
 CREATE TABLE EMPLOYEE (
 	ENAME VARCHAR(20) NOT NULL,
